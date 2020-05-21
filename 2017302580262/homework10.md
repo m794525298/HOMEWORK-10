@@ -1,12 +1,15 @@
+p14
+a) eBGP
+b) iBGP
+c) eBGP
+d) iBGP
+
 P15
 
 a) I1 因为这样距离1c最近。 
 b)I2根据热土豆路由选择，这样距离next hop 2a最近。
 c) I1这样AS-PATH最短。
 
-P16
-
-只告诉D自己临近东海岸的路由器，不告诉它自己临近西海岸的路由器。
 
 P19
 
